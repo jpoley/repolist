@@ -1,0 +1,8 @@
+https://github.com/hashicorp/raft.git
+https://github.com/hashicorp/consul.git
+https://github.com/hashicorp/packer.git
+https://github.com/hashicorp/nomad.git
+https://github.com/hashicorp/terraform.git
+https://github.com/hashicorp/vault.git
+https://github.com/hashicorp/sentinel-sdk.git
+https://github.com/hashicorp/vagrant.git

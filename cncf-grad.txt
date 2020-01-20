@@ -1,0 +1,9 @@
+https://github.com/kubernetes/kubernetes.git
+https://github.com/prometheus/prometheus.git
+https://github.com/envoyproxy/envoy.git
+https://github.com/coredns/coredns.git
+https://github.com/containerd/containerd.git
+https://github.com/fluent/fluentd.git
+https://github.com/jaegertracing/jaeger.git
+https://github.com/vitessio/vitess.git
+https://github.com/theupdateframework/specification.git

@@ -1,0 +1,14 @@
+https://github.com/cyberark/conjur.git
+https://github.com/rapid7/metasploit-framework.git
+https://github.com/nmap/nmap.git
+https://github.com/NationalSecurityAgency/ghidra.git
+https://github.com/FreeApophis/TrueCrypt.git
+https://github.com/veracrypt/VeraCrypt.git
+https://github.com/dani-garcia/bitwarden_rs.git
+https://github.com/keycloak/keycloak.git
+https://github.com/mitmproxy/mitmproxy.git
+https://github.com/frida/frida.git
+https://github.com/OpenSCAP/openscap.git
+https://github.com/aquasecurity/kube-hunter.git
+https://github.com/aquasecurity/kube-bench.git
+https://github.com/aquasecurity/trivy.git

@@ -1,0 +1,6 @@
+
+
+https://github.com/GoogleCloudPlatform/anthos-workshop
+
+https://github.com/tensorflow/workshops
+

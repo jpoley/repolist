@@ -1,0 +1,8 @@
+https://github.com/FRRouting/frr.git
+https://github.com/openvswitch/ovs.git
+https://github.com/nokia/danm.git
+https://github.com/coreos/flannel.git
+https://github.com/cloudnativelabs/kube-router.git
+https://github.com/projectcalico/calico.git
+https://github.com/weaveworks/weave.git
+https://github.com/Juniper/contrail-controller.git

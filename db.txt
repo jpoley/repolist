@@ -1,0 +1,10 @@
+https://github.com/apache/cassandra.git
+https://github.com/mongodb/mongo.git
+https://github.com/influxdata/influxdb.git
+https://github.com/cockroachdb/cockroach.git
+https://github.com/neo4j/neo4j.git
+https://github.com/postgres/postgres.git
+https://github.com/MariaDB/server.git
+https://github.com/boltdb/bolt.git
+https://github.com/antirez/redis.git
+https://github.com/sqlitebrowser/sqlitebrowser.git
