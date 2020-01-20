@@ -1,5 +1,3 @@
-
-
 https://github.com/GoogleCloudPlatform/anthos-workshop
 https://github.com/rust-lang/rustlings
 https://github.com/aws-samples/eks-workshop.git
