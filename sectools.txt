@@ -12,3 +12,4 @@ https://github.com/OpenSCAP/openscap.git
 https://github.com/aquasecurity/kube-hunter.git
 https://github.com/aquasecurity/kube-bench.git
 https://github.com/aquasecurity/trivy.git
+https://github.com/awslabs/s2n.git

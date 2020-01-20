@@ -1,6 +1,10 @@
 
 
 https://github.com/GoogleCloudPlatform/anthos-workshop
-
+https://github.com/rust-lang/rustlings
+https://github.com/aws-samples/eks-workshop.git
+https://github.com/jessfraz/dockerfiles.git
+https://github.com/mikepound/tls-exercises.git
+https://github.com/PacktPublishing/React-Cookbook.git
 https://github.com/tensorflow/workshops
 

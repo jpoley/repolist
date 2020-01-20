@@ -14,3 +14,6 @@ https://github.com/projectcontour/gimbal.git
 https://github.com/projectcontour/contour.git
 https://github.com/inlets/inlets.git
 https://github.com/danderson/metallb.git
+https://github.com/lyft/envoy-mobile.git
+https://github.com/ory/oathkeeper.git
+https://github.com/pusher/oauth2_proxy.git
