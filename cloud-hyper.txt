@@ -6,12 +6,13 @@ https://github.com/firecracker-microvm/firecracker.git
 https://github.com/iovisor/bcc.git
 https://github.com/iovisor/bpftrace.git
 https://github.com/iovisor/gobpf.git
-
 https://github.com/distribworks/dkron.git
-
 https://github.com/istio/istio.git
 https://github.com/Netflix/zuul.git
 https://github.com/containous/maesh.git
 https://github.com/deislabs/smi-spec.git
 https://github.com/solo-io/supergloo.git
 https://github.com/Kong/kuma.git
+https://github.com/Mirantis/virtlet.git
+https://github.com/Netflix/eureka.git
+https://github.com/apache/zookeeper.git

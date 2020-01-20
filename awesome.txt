@@ -6,3 +6,4 @@ https://github.com/matteocrippa/awesome-swift.git
 https://github.com/sindresorhus/awesome-nodejs.git
 https://github.com/akullpp/awesome-java.git
 https://github.com/vsouza/awesome-ios.git
+https://github.com/operator-framework/awesome-operators.git

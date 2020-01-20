@@ -8,3 +8,6 @@ https://github.com/MariaDB/server.git
 https://github.com/boltdb/bolt.git
 https://github.com/antirez/redis.git
 https://github.com/sqlitebrowser/sqlitebrowser.git
+https://github.com/yugabyte/yugabyte-db.git
+https://github.com/rethinkdb/rethinkdb.git
+https://github.com/pingcap/tidb.git
