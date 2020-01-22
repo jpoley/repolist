@@ -1,0 +1,14 @@
+https://github.com/aws/aws-lambda-go.git
+https://github.com/cruise-automation/rbacsync.git
+https://github.com/ipfs/go-ipfs.git
+https://github.com/gin-gonic/gin.git
+https://github.com/rancher/k3s.git
+https://github.com/grpc/grpc-go.git
+https://github.com/containous/traefik.git
+https://github.com/helm/helm.git
+https://github.com/golang/protobuf.git
+https://github.com/terraform-providers/terraform-provider-aws.git
+https://github.com/aws/aws-sdk-go.git
+https://github.com/rqlite/rqlite.git
+https://github.com/golang/oauth2.git
+https://github.com/tidwall/gjson.git

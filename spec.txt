@@ -1,0 +1,7 @@
+https://github.com/cloudevents/spec.git
+https://github.com/deislabs/smi-spec.git
+https://github.com/spiffe/spiffe.git
+https://github.com/containernetworking/cni.git
+https://github.com/container-storage-interface/spec.git
+https://github.com/opencontainers/runtime-spec.git
+
